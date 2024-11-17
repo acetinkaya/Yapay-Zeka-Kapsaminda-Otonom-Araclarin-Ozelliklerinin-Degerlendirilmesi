@@ -44,3 +44,7 @@ Anahtar Kelimeler: Otonom Araçlar, Araç Teknolojisi, Yapay Zeka, AR-GE Yöneti
 - **MLA**: Çap, Gökhan B.  And Çetinkaya, ALİ.  "Yapay Zeka Kapsamında Otonom Araçların Özelliklerinin Değerlendirilmesi."  8. Uluslararası Mühendislik ve Teknoloji Yönetimi Kongresi , İstanbul, Turkey, pp.326-332, 2022                
 
 ![alternatif metin](https://github.com/acetinkaya/Yapay-Zeka-Kapsaminda-Otonom-Araclarin-Ozelliklerinin-Degerlendirilmesi/blob/main/yz_bildiri.png)
+
+License:
+
+This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License, allowing non-commercial sharing and adaptation with proper attribution.
